@@ -5,3 +5,10 @@ Lesson Preview
 - Topics in AI
 
 Conundrums in AI
+
+Fundamental Conundrums of Artificial Inteligence
+1. Inteligent agents have limited resources
+2. Computation is local but problems have global constraints
+3. Logic is deductive but many problems are not
+4. The world is dynamic but knowledge is limited
+5. Problem solving, reasoning and learning are complex but explanation and justification are even more complex
